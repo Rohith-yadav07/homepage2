@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inner h1{
+    background-color: rgb(230, 230, 241);
+    width: 540px;
+    height: 400px;
+    margin-top: 130px;
+    margin-left: 60px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 50px;
+    
+}
+.inner p{
+    margin-left: 80px;
+    margin-top: -250px;
+    font-size: 20px;
+    width: 500px;
+    
+}
+.button h1{
+    background-color: rgb(3, 3, 233);
+    margin-top: 30px;
+    width: 240px;
+    margin-left: 80px;
+    border-radius: 20px;
+    padding-left: 40px;
+    cursor: pointer;
+    
+}
+
+.side2 img{
+    margin-left: 630px;
+    margin-top: -550px;
+    width: 350px;
+    height: 490px;
+    border-radius: 20PX;
+    
+}
+
+.side3 img{
+    margin-left: 1000PX;
+    margin-top: -600PX;
+    height: 510px;
+}
+
+.third {
+    
+    height: 350px;
+    margin-top: 60px;
+
+}
+
+.third p{
+    padding-left: 540px;
+    padding-top: 60px;
+    font-size: 30px;
+    
+}
+
+.third h1{
+    padding-left: 400px;
+    padding-top: 20px;
+    font-size: 45px;
+    
+}
+
+.third h4{
+    padding-left: 400px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.fouth{
+    
+    width: 440px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+.fouth p{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.fouth2{
+    
+    width: 440px;
+    height: 200px;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+
+.fouth2 p{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.fouth3{
+    
+    width: 440px;
+    height: 200px;
+    margin-left: 950px;
+    margin-top: -200px;
+}
+
+.fouth3 p{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.below img{
+    margin-left: 100px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.service{
+    background-color: rgb(3, 5, 75);
+    height: 600px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+.service p{
+    padding-left: 50px;
+    padding-top: 100px;
+    color: white;
+    font-size: 25px;
+}
+.service h1{
+    padding-left: 50px;
+    padding-top: 10px;
+    font-size: 55px;
+    color: white;
+    width: 600px;
+}
